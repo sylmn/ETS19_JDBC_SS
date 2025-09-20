@@ -11,6 +11,7 @@ public class C01_MovingCursor {
         String dbUsername = ConfigurationReader.get("username");
         String dbPassword = ConfigurationReader.get("password");
 
+
         @Test
         public void test1() throws SQLException {
             Connection connection = DriverManager.getConnection(dbUrl, dbUsername, dbPassword);
@@ -18,6 +19,8 @@ public class C01_MovingCursor {
                     ResultSet.TYPE_SCROLL_INSENSITIVE,
                     ResultSet.CONCUR_READ_ONLY);
             ResultSet resultSet = statement.executeQuery("select * from employees;");
+
+
 
             //find how many rows that table has
 
