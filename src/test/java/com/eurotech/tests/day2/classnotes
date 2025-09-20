@@ -1,0 +1,5 @@
+CRUD
+    *Create  --> (Create, insert)
+    *Read    --> (Select)
+    *Update  --> (Set, update, alter)
+    *Delete  --> (Delete, truncate, drop)

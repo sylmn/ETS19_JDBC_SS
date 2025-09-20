@@ -1,0 +1,9 @@
+com\eurotech\tests\day2\C02_CrudPractice.class
+com\eurotech\tests\day1\C01_Jdbc_Intro.class
+com\eurotech\tests\day2\C01_MovingCursor.class
+com\eurotech\tests\day2\C06_Crud_Delete.class
+com\eurotech\tests\day1\C02_Jdbc_Practice.class
+com\eurotech\tests\day2\C04_Crud_Read.class
+com\eurotech\utilities\ConfigurationReader.class
+com\eurotech\tests\day2\C03_Crud_Create.class
+com\eurotech\tests\day2\C05_Crud_Update.class

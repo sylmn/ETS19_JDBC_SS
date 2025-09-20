@@ -1,0 +1,197 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="8c1320cf-311a-44a7-ab1d-8c1d5e4a409d" name="Changes" comment="First update" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="workspaceImportEnabled" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="32nCMlT5CzIjdeTUrBPtOaDZB26" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "C:/Users/Suleyman/IdeaProjects/ETS19_JDBC_SS/src/test/java/com/eurotech/utilities",
+    "settings.editor.selected.configurable": "vcs.Git"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Suleyman\IdeaProjects\ETS19_JDBC_SS\src\test\java\com\eurotech\utilities" />
+      <recent name="C:\Users\Suleyman\IdeaProjects\ETS19_JDBC_SS" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="com.eurotech.utilities" />
+    </key>
+  </component>
+  <component name="RunManager" selected="TestNG.C04_DBUtils_Practice.oneSingleRow">
+    <configuration name="C01_Metadata.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ETS19_JDBC_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eurotech.tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eurotech.tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.eurotech.tests.day3.C01_Metadata" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C02_ListOfMapExample.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ETS19_JDBC_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eurotech.tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eurotech.tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.eurotech.tests.day3.C02_ListOfMapExample" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C03_DynamicList.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ETS19_JDBC_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eurotech.tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eurotech.tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.eurotech.tests.day3.C03_DynamicList" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DBUtils_Practice.listOfMap" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ETS19_JDBC_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eurotech.tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eurotech.tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.eurotech.tests.day3.C04_DBUtils_Practice" />
+      <option name="METHOD_NAME" value="listOfMap" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C04_DBUtils_Practice.oneSingleRow" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="ETS19_JDBC_SS" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.eurotech.tests.day3.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="com.eurotech.tests.day3" />
+      <option name="MAIN_CLASS_NAME" value="com.eurotech.tests.day3.C04_DBUtils_Practice" />
+      <option name="METHOD_NAME" value="oneSingleRow" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="TestNG.C04_DBUtils_Practice.oneSingleRow" />
+        <item itemvalue="TestNG.C04_DBUtils_Practice.listOfMap" />
+        <item itemvalue="TestNG.C03_DynamicList.test" />
+        <item itemvalue="TestNG.C02_ListOfMapExample.test" />
+        <item itemvalue="TestNG.C01_Metadata.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8c1320cf-311a-44a7-ab1d-8c1d5e4a409d" name="Changes" comment="" />
+      <created>1758046908862</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1758046908862</updated>
+    </task>
+    <task id="LOCAL-00001" summary="First update">
+      <created>1758320198141</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1758320198141</updated>
+    </task>
+    <task id="LOCAL-00002" summary="First update">
+      <created>1758320226759</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1758320226759</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="First update" />
+    <option name="LAST_COMMIT_MESSAGE" value="First update" />
+  </component>
+</project>

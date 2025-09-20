@@ -1,0 +1,4 @@
+# Database connection settings
+url=jdbc:postgresql://localhost:5432/postgres
+username=postgres
+password=YOUR_PASSWORD_HERE
